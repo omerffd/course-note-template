@@ -66,79 +66,61 @@ math: katex
 
 ### Anahat
 
-- Örnek Anahat
-- Örnek Anahat
-- Örnek Anahat
-- Örnek Anahat
+- Flowgorithm
+
 
 ---
 
-## **Örnek Konu**
+## **Flowgorithm ne ?**
 
 ---
 
 ### Örnek Konu
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-   - bilinmeyen bir matbaacı bir tür kadırga alıp onu bir tip numune kitabı yapmak için karıştırdığında. Sadece beş yüzyıl hayatta kalmadı,
-     - ama aynı zamanda, esasen değişmeden kalan elektronik dizgiye geçiş.
-       - 1960'larda Lorem Ipsum pasajları içeren Letraset sayfalarının yayınlanmasıyla ve daha yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümlerini içeren masaüstü yayıncılık yazılımlarıyla popüler hale geldi.
+- **Flowgorithm ne ?**
+**Flowgorithm**, kullanıcıların [akış şemalarını](https://en. wikipedia.org/wiki/Flowchart "Akış Şeması"). Yaklaşım, belirli bir programlama dilinin sözdiziminden ziyade algoritmayı vurgulamak için tasarlanmıştır. Akış şeması, birkaç ana programlama diline dönüştürülebilir. Flowgorithm [Sacramento Eyalet Üniversitesinde](https://en.wikipedia.org/wiki/Sacramento_State_University "Sacramento Eyalet Üniversitesi") oluşturuldu.
 ---
 
 ### Örnek Resimler-1
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![center h:400px](assets/sample-1.png)
-
+- **Flowgorithm ne ?**
+ Flowgorithm is a **free** beginner's programming language that is based on simple graphical flowcharts.
+  
+  Typically, when a student first learns to program, they often use one of the text-based programming languages. Depending on the language, this can either be easy or frustratingly difficult. Many languages require you to write lines of confusing code just to display the text "Hello, world!".
+  
+  By using flowcharts, you can concentrate on programming concepts rather than all the nuances of a typical programming language. You can also run your programs directly in Flowgorithm.
+  
+  Once you understand programming logic, it is easy for you to learn one of the major languages. Flowgorithm can interactively convert your flowchart to over 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET, and VBA (used in Office).
 ---
 
 ### Örnek Resimler-2
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg right:50% h:400px](assets/sample-1.png)
-
----
+- **Flowgorithm ne ?**
+Flowgorithm, kullanıcıların akış şemalarını kullanarak programlar yazmasına ve yürütmesine olanak tanıyan bir grafik geliştirme aracıdır. Yaklaşım, belirli bir programlama dilinin sözdiziminden ziyade algoritmayı vurgulamak için tasarlanmıştır. Akış şeması, birkaç ana programlama diline dönüştürülebilir. Flowgorithm, Sacramento Eyalet Üniversitesi'nde oluşturuldu.
 
 ### Örnek Resimler-3
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:400px](assets/sample-1.png)
+- - ![Flowgorithm Tutorial - TestingDocs.com](https://www.testingdocs.com/wp-content/uploads/flowgorithm-logo.png)
 
 ---
 
 ### Örnek Resimler-4
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg h:400px](assets/sample-1.png)
-
+- **Flowgorithm nasıl indirilir?**
+ [http://www.flowgorithm.org/](http://www.flowgorithm.org/)
 ---
 
 ### Örnek Resimler-5
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
+- **Flowgoritma ne işe yarar?**
+Flowgorithm, **kullanıcıların akış şemalarını kullanarak programlar yazmasına ve yürütmesine olanak tanıyan bir grafik geliştirme aracıdır**. Yaklaşım, belirli bir programlama dilinin sözdiziminden ziyade algoritmayı vurgulamak için tasarlanmıştır. Akış şeması birkaç ana programlama diline dönüştürülebilir.
 
-![bg left:50% h:800px](assets/sample-1.png)
-![bg left:50% h:800px](assets/sample-2.png)
-
+)![Flowgorithm - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/42/Flowgorithm_99_Bottles_of_Beer.png)
 ---
 
 ### Örnek Resimler-6
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:300px](assets/sample-1.png)
-![bg left:50% h:500px](assets/sample-2.png)
+- 
 
 ---
 

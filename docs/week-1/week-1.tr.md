@@ -66,79 +66,50 @@ math: katex
 
 ### Anahat
 
-- Örnek Anahat
-- Örnek Anahat
-- Örnek Anahat
-- Örnek Anahat
+-Google'ı kullanma
 
 ---
 
 ## **Örnek Konu**
 
----
+---Google nasıl kullanılabilir?
 
 ### Örnek Konu
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-   - bilinmeyen bir matbaacı bir tür kadırga alıp onu bir tip numune kitabı yapmak için karıştırdığında. Sadece beş yüzyıl hayatta kalmadı,
-     - ama aynı zamanda, esasen değişmeden kalan elektronik dizgiye geçiş.
-       - 1960'larda Lorem Ipsum pasajları içeren Letraset sayfalarının yayınlanmasıyla ve daha yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümlerini içeren masaüstü yayıncılık yazılımlarıyla popüler hale geldi.
+- **Google nedir?**
+Sahip olduğu özellikler nedeniyle "dünyanın en güçlü şirketi. ve dünyanın [en değerli markalarından](https://en.wikipedia.org/wiki/List_of_most_valuable_brands "En değerli markaların listesi") olarak anılmıştır. yapay zeka alanında pazar hakimiyeti, veri toplama ve teknolojik avantajlar. Ana şirketi [Alphabet](https://en.wikipedia.org/wiki/Alphabet_Inc. "Alphabet Inc.") [Büyük] Beş](https://en.wikipedia.org/wiki/Big_Tech "Big Tech") Amerikan [bilgi teknolojisi](https://en.wikipedia.org/wiki/Information_technology "Bilgi teknolojisi") şirketi, [Amazon] ](https://en.wikipedia.org/wiki/Amazon_(şirket) "Amazon (şirket)"), [Apple](https://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.") , [Meta](https://en.wikipedia.org/wiki/Meta_Platforms "Meta Platformlar") ve [Microsoft](https://en.wikipedia.org/wiki/Microsoft "Microsoft").
 ---
 
-### Örnek Resimler-1
+Örnek Konu
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
 
-![center h:400px](assets/sample-1.png)
-
+- **Google nedir?**
+Google, 4 Eylül 1998'de [Larry Page](https://en.wikipedia.org/wiki/Larry_Page "Larry Page") ve [Sergey Brin](https://en.wikipedia.org/wiki) tarafından kurulmuştur. /Sergey_Brin "Sergey Brin"), wiki/Stanford_University "Stanford Üniversitesi") [California](https://en.wikipedia.org/wiki/California "California"). Birlikte, halka açık hisselerin yaklaşık %14'üne sahipler ve [süper oylama hissesi](https://en.wikipedia.org/wiki/Super-voting_stock "Süper oylama hissesi") aracılığıyla hissedar oy gücünün %56'sını kontrol ediyorlar. . Şirket, [ilk halka arz](https://en.wikipedia.org/wiki/Initial_public_offering "İlk halka arz yoluyla) [halka açık](https://en.wikipedia.org/wiki/Public_company "Halka açık şirket") ") (IPO) 2004 yılında.
+  
+  ![Google Play'de Google LLC'den Android Uygulamaları](https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw)
 ---
 
 ### Örnek Resimler-2
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg right:50% h:400px](assets/sample-1.png)
-
+- ***Google nedir?**
+ In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a [holding company](https://en.wikipedia.org/wiki/Holding_company "Holding company") for Alphabet's Internet properties and interests. [Sundar Pichai](https://en.wikipedia.org/wiki/Sundar_Pichai "Sundar Pichai") was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet.
+- ![Google Chrome - Vikipedi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/800px-Google_Chrome_icon_%28February_2022%29.svg.png)
 ---
 
 ### Örnek Resimler-3
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:400px](assets/sample-1.png)
+- **Google nedir?**
+Google Chrome is one of the most popular web browsers because of its fast performance, stability, efficiency, and top-notch security. And if you use Gmail, Chrome makes the transition from checking your email to surfing the web seamless.
+- ![Browse All of Google's Products & Services - Google](https://lh3.googleusercontent.com/O53jgarLMMs6WBjROWgvDFWD1SrzVxc3yLfpI8Lk7_2zUwmgzDi4T-y3QxFTABRkzXKG385ZSkknvOcbL0dt0S5XiAAqEzUO06gy6koJDSCxLERtlJw)
 
 ---
 
 ### Örnek Resimler-4
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
+- **Google nasıl indirilir?**
+Google Chrome internet sine git. Google Chrome'u indirmek için herhangi bir internet tarayıcısını kullanabilirsin. Bir tarayıcı yüklemediysen, işletim sisteminin önceden yüklenmiş internet tarayıcısını (Windows için Internet Explorer ve Mac OS X için Safari) kullanabilirsin.
 
-![bg h:400px](assets/sample-1.png)
 
----
-
-### Örnek Resimler-5
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:800px](assets/sample-1.png)
-![bg left:50% h:800px](assets/sample-2.png)
-
----
-
-### Örnek Resimler-6
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:300px](assets/sample-1.png)
-![bg left:50% h:500px](assets/sample-2.png)
 
 ---
 

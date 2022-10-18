@@ -66,84 +66,72 @@ Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](we
 
 ### Outline
 
-- Sample Outline
-- Sample Outline
-- Sample Outline
-- Sample Outline
+- Flowgorithm
 
 ---
 
-## **Sample Topic**
+## **What is Flowgorithm ?**
 
 ---
 
 ### Sample Topic
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-  - when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 
-    - but also the leap into electronic typesetting, remaining essentially unchanged. 
-      - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+- ****What is Flowgorithm ?****
+  **Flowgorithm** is a graphical [authoring tool](https://en.wikipedia.org/wiki/Authoring_tool "Authoring tool") which allows users to write and execute programs using [flowcharts](https://en.wikipedia.org/wiki/Flowchart "Flowchart"). The approach is designed to emphasize the algorithm rather than the syntax of a specific programming language.The flowchart can be converted to several major programming languages. Flowgorithm was created at [Sacramento State University](https://en.wikipedia.org/wiki/Sacramento_State_University "Sacramento State University").
 
 ---
 
 ### Sample Images-1
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- ****What is Flowgorithm?****
+  Flowgorithm is a **free** beginner's programming language that is based on simple graphical flowcharts.
+  
+  Typically, when a student first learns to program, they often use one of the text-based programming languages. Depending on the language, this can either be easy or frustratingly difficult. Many languages require you to write lines of confusing code just to display the text "Hello, world!".
+  
+  By using flowcharts, you can concentrate on programming concepts rather than all the nuances of a typical programming language. You can also run your programs directly in Flowgorithm.
+  
+  Once you understand programming logic, it is easy for you to learn one of the major languages. Flowgorithm can interactively convert your flowchart to over 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET, and VBA (used in Office).
 
-![center h:400px](assets/sample-1.png)
+
 
 ---
 
 ### Sample Images-2
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- ****What is Flowgorithm?****
+  Flowgorithm is a graphical authoring tool which allows users to write and execute programs using flowcharts. The approach is designed to emphasize the algorithm rather than the syntax of a specific programming language.The flowchart can be converted to several major programming languages. Flowgorithm was created at Sacramento State University.
 
-![bg right:50% h:400px](assets/sample-1.png)
+
 
 ---
 
 ### Sample Images-3
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg left:50% h:400px](assets/sample-1.png)
+- ![Flowgorithm Tutorial - TestingDocs.com](https://www.testingdocs.com/wp-content/uploads/flowgorithm-logo.png)
 
 ---
 
 ### Sample Images-4
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg h:400px](assets/sample-1.png)
+- **How is download Flowgorithm ?**
+  [http://www.flowgorithm.org/](http://www.flowgorithm.org/)
 
 ---
 
 ### Sample Images-5
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- **What does Flowgorithm do?**
+  Flowgorithm is a graphical authoring tool which **allows users to write and execute programs using flowcharts**. The approach is designed to emphasize the algorithm rather than the syntax of a specific programming language. The flowchart can be converted to several major programming languages.
 
-![bg left:50% h:800px](assets/sample-1.png)
-![bg left:50% h:800px](assets/sample-2.png)
-
----
-
-### Sample Images-6
-
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg left:50% h:300px](assets/sample-1.png)
-![bg left:50% h:500px](assets/sample-2.png)
+)![Flowgorithm - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/42/Flowgorithm_99_Bottles_of_Beer.png)
 
 ---
 
-###  Latex Sample-1
+# 
+
+---
+
+### Latex Sample-1
 
 $$
 \begin{align}
@@ -219,12 +207,11 @@ $$
 
 ## References
 
-- https://avesis.erdogan.edu.tr/ugur.coruh
-- https://www.linkedin.com/in/ugurcoruh/
-- https://www.hindawi.com/journals/scn/2018/6563089/ 
-- https://dl.acm.org/doi/abs/10.1145/3410352.3410836
-- https://www.sciencedirect.com/science/article/abs/pii/S2214212621002623 
-
+- http://www.flowgorithm.org/
+- [Flowgorithm - Wikipedia](https://en.wikipedia.org/wiki/Flowgorithm)
+- [Flowgorithm - Wikiwand](https://www.wikiwand.com/en/Flowgorithm)
+- https://upload.wikimedia.org/wikipedia/commons/4/42/Flowgorithm_99_Bottles_of_Beer.png
+- https://www.testingdocs.com/wp-content/uploads/flowgorithm-logo.png
 
 ---
 
